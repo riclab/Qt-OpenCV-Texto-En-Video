@@ -1,0 +1,1 @@
+# Qt-OpenCV-Texto-En-Video
